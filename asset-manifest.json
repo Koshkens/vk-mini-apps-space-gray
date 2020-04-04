@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk-mini-apps-space-gray/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-mini-apps-space-gray/static/js/main.8a29197b.chunk.js",
+    "main.js.map": "/vk-mini-apps-space-gray/static/js/main.8a29197b.chunk.js.map",
+    "runtime-main.js": "/vk-mini-apps-space-gray/static/js/runtime-main.f6f286a7.js",
+    "runtime-main.js.map": "/vk-mini-apps-space-gray/static/js/runtime-main.f6f286a7.js.map",
+    "static/css/2.86df01db.chunk.css": "/vk-mini-apps-space-gray/static/css/2.86df01db.chunk.css",
+    "static/js/2.e00aeb91.chunk.js": "/vk-mini-apps-space-gray/static/js/2.e00aeb91.chunk.js",
+    "static/js/2.e00aeb91.chunk.js.map": "/vk-mini-apps-space-gray/static/js/2.e00aeb91.chunk.js.map",
+    "index.html": "/vk-mini-apps-space-gray/index.html",
+    "precache-manifest.e2f2d3f22c24e43071e2f334f0567994.js": "/vk-mini-apps-space-gray/precache-manifest.e2f2d3f22c24e43071e2f334f0567994.js",
+    "service-worker.js": "/vk-mini-apps-space-gray/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vk-mini-apps-space-gray/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-mini-apps-space-gray/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.e00aeb91.chunk.js.LICENSE.txt": "/vk-mini-apps-space-gray/static/js/2.e00aeb91.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/vk-mini-apps-space-gray/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f286a7.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.e00aeb91.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.8a29197b.chunk.js"
+  ]
+}
