@@ -15,7 +15,7 @@ function App() {
 						<img className="gray" src={gray} />
 					</Group>
 					<Div>
-						<Button size="xl" onClick={() => { window.open("https://www.google.com"); }}>Открыть</Button>
+						<Button size="xl" onClick={() => { window.open("ultimaterower.tumblr.com"); }}>Открыть</Button>
 					</Div>
 				</Div>
 			</Panel>
